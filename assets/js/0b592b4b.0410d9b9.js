@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknote_blog=self.webpackChunknote_blog||[]).push([[6272],{3991:function(e){e.exports=JSON.parse('{"allTagsPath":"/note-blog/blog/tags","slug":"web","name":"web","count":1,"permalink":"/note-blog/blog/tags/web"}')}}]);

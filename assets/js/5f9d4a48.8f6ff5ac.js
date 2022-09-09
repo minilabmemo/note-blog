@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknote_blog=self.webpackChunknote_blog||[]).push([[1201],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"demo me web","permalink":"/note-blog/blog/demo"}]}')}}]);

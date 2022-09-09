@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknote_blog=self.webpackChunknote_blog||[]).push([[5470],{1341:function(e){e.exports=JSON.parse('{"deme":{"allTagsPath":"/note-blog/blog/tags","slug":"deme","name":"deme","count":1,"permalink":"/note-blog/blog/tags/deme"},"web":{"allTagsPath":"/note-blog/blog/tags","slug":"web","name":"web","count":1,"permalink":"/note-blog/blog/tags/web"}}')}}]);
